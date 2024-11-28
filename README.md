@@ -1,3 +1,3 @@
 Name :- Mukta Mani
-Company :- codtech
+Company :- codtech It Solutions
 task :- 02
